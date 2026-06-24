@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README.zh-CN.md) | [Русский](README.ru.md) | [Português](README.pt-BR.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+
 # GammaRemover
 
 Browser-based Gamma PDF and PPTX export cleanup tool.
@@ -7,6 +9,10 @@ GammaRemover helps users clean visible "Made with Gamma" branding from standard 
 Use it here: https://gammaremover.com/
 
 > Use GammaRemover only for files you own or have permission to modify. GammaRemover is not affiliated with, endorsed by, or sponsored by Gamma.app.
+
+## Preview
+
+![GammaRemover browser preview](docs/assets/gammaremover-browser-preview.webp)
 
 ## What is GammaRemover?
 
